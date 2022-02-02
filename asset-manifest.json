@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/space-duel-web-build/static/css/main.b6f27027.chunk.css",
-    "main.js": "/space-duel-web-build/static/js/main.32a7359f.chunk.js",
-    "main.js.map": "/space-duel-web-build/static/js/main.32a7359f.chunk.js.map",
+    "main.css": "/space-duel-web-build/static/css/main.c24c16fb.chunk.css",
+    "main.js": "/space-duel-web-build/static/js/main.333fa5af.chunk.js",
+    "main.js.map": "/space-duel-web-build/static/js/main.333fa5af.chunk.js.map",
     "runtime-main.js": "/space-duel-web-build/static/js/runtime-main.7bd1cfad.js",
     "runtime-main.js.map": "/space-duel-web-build/static/js/runtime-main.7bd1cfad.js.map",
-    "static/js/2.5a9f480e.chunk.js": "/space-duel-web-build/static/js/2.5a9f480e.chunk.js",
-    "static/js/2.5a9f480e.chunk.js.map": "/space-duel-web-build/static/js/2.5a9f480e.chunk.js.map",
+    "static/js/2.580d0116.chunk.js": "/space-duel-web-build/static/js/2.580d0116.chunk.js",
+    "static/js/2.580d0116.chunk.js.map": "/space-duel-web-build/static/js/2.580d0116.chunk.js.map",
     "static/js/3.df0b29fb.chunk.js": "/space-duel-web-build/static/js/3.df0b29fb.chunk.js",
     "static/js/3.df0b29fb.chunk.js.map": "/space-duel-web-build/static/js/3.df0b29fb.chunk.js.map",
     "index.html": "/space-duel-web-build/index.html",
-    "static/css/main.b6f27027.chunk.css.map": "/space-duel-web-build/static/css/main.b6f27027.chunk.css.map",
-    "static/js/2.5a9f480e.chunk.js.LICENSE.txt": "/space-duel-web-build/static/js/2.5a9f480e.chunk.js.LICENSE.txt"
+    "static/css/main.c24c16fb.chunk.css.map": "/space-duel-web-build/static/css/main.c24c16fb.chunk.css.map",
+    "static/js/2.580d0116.chunk.js.LICENSE.txt": "/space-duel-web-build/static/js/2.580d0116.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7bd1cfad.js",
-    "static/js/2.5a9f480e.chunk.js",
-    "static/css/main.b6f27027.chunk.css",
-    "static/js/main.32a7359f.chunk.js"
+    "static/js/2.580d0116.chunk.js",
+    "static/css/main.c24c16fb.chunk.css",
+    "static/js/main.333fa5af.chunk.js"
   ]
 }
