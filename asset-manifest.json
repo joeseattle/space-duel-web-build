@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/space-duel-web-build/static/css/main.c24c16fb.chunk.css",
-    "main.js": "/space-duel-web-build/static/js/main.ab0903e7.chunk.js",
-    "main.js.map": "/space-duel-web-build/static/js/main.ab0903e7.chunk.js.map",
+    "main.js": "/space-duel-web-build/static/js/main.abeac3de.chunk.js",
+    "main.js.map": "/space-duel-web-build/static/js/main.abeac3de.chunk.js.map",
     "runtime-main.js": "/space-duel-web-build/static/js/runtime-main.7777ca43.js",
     "runtime-main.js.map": "/space-duel-web-build/static/js/runtime-main.7777ca43.js.map",
     "static/js/2.381ed340.chunk.js": "/space-duel-web-build/static/js/2.381ed340.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7777ca43.js",
     "static/js/2.381ed340.chunk.js",
     "static/css/main.c24c16fb.chunk.css",
-    "static/js/main.ab0903e7.chunk.js"
+    "static/js/main.abeac3de.chunk.js"
   ]
 }
